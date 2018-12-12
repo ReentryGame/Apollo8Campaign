@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <WorkshopItemInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PublishedFileId>1565503192</PublishedFileId>
-  <Name>SampleTest</Name>
-  <Description>This is a sample campaing.</Description>
+  <Name>Apollo 8</Name>
+  <Description>This campaign represents, through various levels, the historic flight of Apollo 8</Description>
   <IconFileName>SampleTest.png</IconFileName>
   <Tags />
 </WorkshopItemInfo>
