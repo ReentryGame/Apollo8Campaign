@@ -1,1 +1,92 @@
-{"Mission":{"CampaignIndex":1,"CampaignId":"APOLLO 8","IsCustomMission":true,"MissionPath":"C:\\Users\\bohi8\\AppData\\LocalLow\\Wilhelmsen Studios\\ReEntry\\Campaigns\\Apollo 8\\Missions/part2.json","MissionProgress":1,"MissionTotalInstructions":1,"MissionGoals":[{"Progress":null,"Completed":false,"Type":0,"Description":"Complete the mission chapter.","Target1":0.0,"Target2":0.0,"Target3":0.0,"String1":null,"String2":null}],"MissionActivities":[]},"Timers":{"GameTimer":"01:12:10.8350000","TimeSinceLaunch":"00:12:38.9580000","TimeToRetro":"11:07:51.3550000","PlannedRetroTimestamp":"19:11:02.1900000","MissionDateTime":"1968-12-21T08:03:10.835","TimeOfIgnition":"1968-12-21T07:51:00","TimeFromIgnition":"-00:12:38.9580000","TimeToLaunch":"-00:12:10.8350000","EventTimer":"00:12:06.4550000","MissionTimer":"00:12:08.6450000"},"ApolloState":{"position":{"x":0.383493274,"y":0.412300169,"z":0.337307423},"velocity":{"x":-0.0005838078,"y":0.000141908531,"z":0.0004961799}},"MoonState":{"position":{"x":35.52885,"y":14.674139,"z":0.061923366},"velocity":{"x":-2.33791361E-05,"y":5.62609857E-05,"z":8.158983E-05}},"ObjectOrientations":{"ApolloCapsule":{"x":-0.008557215,"y":-0.504395962,"z":-0.6182105,"w":-0.602766156},"Platform1":{"x":-0.5794464,"y":-0.489694357,"z":0.6346492,"w":0.147179261},"Platform2":{"x":-0.5794464,"y":-0.489694357,"z":0.6346492,"w":0.147179261},"Earth":{"x":0.706858635,"y":0.0187315345,"z":0.0187315345,"w":-0.706858635}},"WorldOffset":{"x":-38367.57,"y":-41225.58,"z":-33715.2344},"SpaceProgram":2}
+{
+    "Mission": {
+        "CampaignIndex": 1,
+        "CampaignId": "APOLLO 8",
+        "IsCustomMission": true,
+        "MissionPath": "C:\\Users\\bohi8\\AppData\\LocalLow\\Wilhelmsen Studios\\ReEntry\\Campaigns\\Apollo 8\\Missions/part2.json",
+        "MissionProgress": 1,
+        "MissionTotalInstructions": 1,
+        "MissionGoals": [
+            {
+                "Progress": null,
+                "Completed": false,
+                "Type": 0,
+                "Description": "Complete the mission chapter.",
+                "Target1": 0,
+                "Target2": 0,
+                "Target3": 0,
+                "String1": null,
+                "String2": null
+            }
+        ],
+        "MissionActivities": []
+    },
+    "Timers": {
+        "GameTimer": "01:12:10.8350000",
+        "TimeSinceLaunch": "00:12:38.9580000",
+        "TimeToRetro": "11:07:51.3550000",
+        "PlannedRetroTimestamp": "19:11:02.1900000",
+        "MissionDateTime": "1968-12-21T08:03:10.835",
+        "TimeOfIgnition": "1968-12-21T07:51:00",
+        "TimeFromIgnition": "-00:12:38.9580000",
+        "TimeToLaunch": "-00:12:10.8350000",
+        "EventTimer": "00:12:06.4550000",
+        "MissionTimer": "00:12:08.6450000"
+    },
+    "ApolloState": {
+        "position": {
+            "x": 0.383493274,
+            "y": 0.412300169,
+            "z": 0.337307423
+        },
+        "velocity": {
+            "x": -0.0005838078,
+            "y": 0.000141908531,
+            "z": 0.0004961799
+        }
+    },
+    "MoonState": {
+        "position": {
+            "x": 35.52885,
+            "y": 14.674139,
+            "z": 0.061923366
+        },
+        "velocity": {
+            "x": -0.0000233791361,
+            "y": 0.0000562609857,
+            "z": 0.00008158983
+        }
+    },
+    "ObjectOrientations": {
+        "ApolloCapsule": {
+            "x": -0.008557215,
+            "y": -0.504395962,
+            "z": -0.6182105,
+            "w": -0.602766156
+        },
+        "Platform1": {
+            "x": -0.5794464,
+            "y": -0.489694357,
+            "z": 0.6346492,
+            "w": 0.147179261
+        },
+        "Platform2": {
+            "x": -0.5794464,
+            "y": -0.489694357,
+            "z": 0.6346492,
+            "w": 0.147179261
+        },
+        "Earth": {
+            "x": 0.706858635,
+            "y": 0.0187315345,
+            "z": 0.0187315345,
+            "w": -0.706858635
+        }
+    },
+    "WorldOffset": {
+        "x": -38367.57,
+        "y": -41225.58,
+        "z": -33715.2344
+    },
+    "SpaceProgram": 2
+}
