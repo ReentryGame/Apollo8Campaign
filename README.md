@@ -14,4 +14,4 @@ https://archive.org/details/Apollo8
 (https://www.hq.nasa.gov/alsj/alsj-ApolloAudio.html)
 
 
-Any contributions are on a volunteer basis, and is freely given to the Reentry - An Orbital Simulator and Wilhelmsen Studios. If your contributions make it into the project, feel free to reach out on petriw@gmail.com and I will be happy to add you to the credits list.
+Any contributions are on a volunteer basis, and is considered a donation to the Reentry - An Orbital Simulator project, and Wilhelmsen Studios. If your contributions make it into the project, feel free to reach out on petriw@gmail.com and I will be happy to add you to the credits list.
