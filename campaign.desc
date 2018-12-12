@@ -1,1 +1,78 @@
-{"fullPathDescriptionFile":null,"campaignPath":null,"Title":"APOLLO 8","TileBackgroundImage":"tileBg.png","PageBackgroundImage":"pageBg.png","Sections":[{"Type":2,"Data":"c1.png","Value":0},{"Type":1,"Data":"Apollo 8 is the 2nd manned Apollo mission after the success of Apollo 7 that orbited the Earth with the help of the smaller Saturn 1B launch vehicle.\r\n\r\nInitially, the goal of the mission was to test the Lunar Module in Earth Orbit, but unfortunately the Lunar Module is not yet ready for flight. Instead of cancelling the mission, NASA has decided that Apollo 8 will, for the first time in history, travel beyond the low Earth orbit, and reach the Moon.","Value":0},{"Type":1,"Data":"The Gemini capsule is a brand new spaceship, with room for two astronauts, the commander and the pilot.\r\n\r\nIt is designed to piloted much like a jet fighter, and has the ability to maneuver in Orbit.","Value":0},{"Type":1,"Data":"The cockpit has 7 panels with controls, and has an On-Board Computer (OBC) used to aid the crew in-flight.","Value":0},{"Type":0,"Data":"Missions","Value":0}],"Missions":[{"missionIndex":0,"Program":2,"FileName":"Missions/part1.json","Title":"The Ascent","CampaingProgressInfo":"The Apollo 8 rocket is standing ready on the pad. For the first time, a manned mission will use the full Staurn V stack to reach the Moon. The backup crew is performing the initial cockpit inspection and setup, and soon, you and your crew will enter the cockpit to do the final setup, and ascent into orbit."},{"missionIndex":0,"Program":2,"FileName":"Missions/part2.json","Title":"Trans-Lunar Injection","CampaingProgressInfo":"TLI"},{"missionIndex":0,"Program":2,"FileName":"Missions/part3.json","Title":"Approaching the Moon","CampaingProgressInfo":"Moon"},{"missionIndex":0,"Program":2,"FileName":"Missions/part4.json","Title":"The Moon Orbit","CampaingProgressInfo":"Moon Orbit"},{"missionIndex":0,"Program":2,"FileName":"Missions/part5.json","Title":"Getting Home","CampaingProgressInfo":"Getting Home"},{"missionIndex":0,"Program":2,"FileName":"Missions/part6.json","Title":"The Entry","CampaingProgressInfo":"The Entry"}]}
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "APOLLO 8",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 2,
+            "Data": "c1.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Apollo 8 is the 2nd manned Apollo mission after the success of Apollo 7 that orbited the Earth with the help of the smaller Saturn 1B launch vehicle.\r\n\r\nInitially, the goal of the mission was to test the Lunar Module in Earth Orbit, but unfortunately the Lunar Module is not yet ready for flight. Instead of cancelling the mission, NASA has decided that Apollo 8 will, for the first time in history, travel beyond the low Earth orbit, and reach the Moon.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "The Gemini capsule is a brand new spaceship, with room for two astronauts, the commander and the pilot.\r\n\r\nIt is designed to piloted much like a jet fighter, and has the ability to maneuver in Orbit.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "The cockpit has 7 panels with controls, and has an On-Board Computer (OBC) used to aid the crew in-flight.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Missions",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part1.json",
+            "Title": "The Ascent",
+            "CampaingProgressInfo": "The Apollo 8 rocket is standing ready on the pad. For the first time, a manned mission will use the full Staurn V stack to reach the Moon. The backup crew is performing the initial cockpit inspection and setup, and soon, you and your crew will enter the cockpit to do the final setup, and ascent into orbit."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part2.json",
+            "Title": "Trans-Lunar Injection",
+            "CampaingProgressInfo": "TLI"
+        },
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part3.json",
+            "Title": "Approaching the Moon",
+            "CampaingProgressInfo": "Moon"
+        },
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part4.json",
+            "Title": "The Moon Orbit",
+            "CampaingProgressInfo": "Moon Orbit"
+        },
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part5.json",
+            "Title": "Getting Home",
+            "CampaingProgressInfo": "Getting Home"
+        },
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/part6.json",
+            "Title": "The Entry",
+            "CampaingProgressInfo": "The Entry"
+        }
+    ]
+}
